@@ -4,12 +4,9 @@ import br.com.magna.api.minhaapi.entity.CategoriaEntity
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 
-//@Repository
-//interface CategoriaRepository : JpaRepository<CategoriaEntity, Long>
+
 @Repository
 class CategoriaRepository {
-
-//    var nameCategoria: String = "Terror"
 
     var args = ArrayList<CategoriaEntity>()
 
@@ -36,7 +33,7 @@ class CategoriaRepository {
             id = categoriaEntity.id,
             nome = categoriaEntity.nome,
 
-        )
+            )
         args.add(entity)
         return entity
     }
@@ -44,6 +41,4 @@ class CategoriaRepository {
     fun deletar(index: Int) {
         args.removeAt(index)
     }
-
-
- }
+}

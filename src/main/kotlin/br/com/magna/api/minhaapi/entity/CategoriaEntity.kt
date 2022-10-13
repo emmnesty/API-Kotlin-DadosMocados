@@ -13,7 +13,4 @@ data class CategoriaEntity (
     @get: NotBlank
     val nome: String = "",
 
-//    @JsonManagedReference
-//    @OneToMany(mappedBy = "categoria", cascade = arrayOf(CascadeType.ALL), fetch = FetchType.EAGER)
-//    var livros: List<LivroEntity> = emptyList()
 )
