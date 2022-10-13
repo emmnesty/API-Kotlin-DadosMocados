@@ -1,0 +1,38 @@
+10:46:58.833 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - Starting MinhaApiApplicationKt using Java 11.0.16 on jhonatan-Magna with PID 355250 (/opt/projetos/kotlin_spring/minha-api/target/classes started by jhonatan in /opt/projetos/kotlin_spring/minha-api)
+10:46:58.834 [restartedMain] DEBUG b.c.m.a.m.MinhaApiApplicationKt - Running with Spring Boot v2.7.4, Spring v5.3.23
+10:46:58.835 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - No active profile set, falling back to 1 default profile: "default"
+10:47:00.711 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - Started MinhaApiApplicationKt in 2.071 seconds (JVM running for 2.581)
+10:47:07.227 [http-nio-8080-exec-2] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+10:47:08.640 [http-nio-8080-exec-3] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+10:47:09.544 [http-nio-8080-exec-4] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+10:47:10.321 [http-nio-8080-exec-5] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+10:47:10.896 [http-nio-8080-exec-6] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+10:47:11.492 [http-nio-8080-exec-7] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+10:47:11.908 [http-nio-8080-exec-8] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+11:09:51.601 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - Starting MinhaApiApplicationKt using Java 11.0.16 on jhonatan-Magna with PID 356152 (/opt/projetos/kotlin_spring/minha-api/target/classes started by jhonatan in /opt/projetos/kotlin_spring/minha-api)
+11:09:51.602 [restartedMain] DEBUG b.c.m.a.m.MinhaApiApplicationKt - Running with Spring Boot v2.7.4, Spring v5.3.23
+11:09:51.603 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - No active profile set, falling back to 1 default profile: "default"
+11:09:53.541 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - Started MinhaApiApplicationKt in 2.178 seconds (JVM running for 2.596)
+11:09:57.754 [http-nio-8080-exec-2] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+11:09:58.585 [http-nio-8080-exec-3] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+11:09:59.292 [http-nio-8080-exec-4] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+14:35:37.159 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - Starting MinhaApiApplicationKt using Java 11.0.16 on jhonatan-Magna with PID 37081 (/opt/projetos/kotlin_spring/API-Kotlin-Spring-Livraria/target/classes started by jhonatan in /opt/projetos/kotlin_spring/API-Kotlin-Spring-Livraria)
+14:35:37.161 [restartedMain] DEBUG b.c.m.a.m.MinhaApiApplicationKt - Running with Spring Boot v2.7.4, Spring v5.3.23
+14:35:37.161 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - No active profile set, falling back to 1 default profile: "default"
+14:36:56.935 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - Starting MinhaApiApplicationKt using Java 11.0.16 on jhonatan-Magna with PID 37500 (/opt/projetos/kotlin_spring/API-Kotlin-Spring-Livraria/target/classes started by jhonatan in /opt/projetos/kotlin_spring/API-Kotlin-Spring-Livraria)
+14:36:56.936 [restartedMain] DEBUG b.c.m.a.m.MinhaApiApplicationKt - Running with Spring Boot v2.7.4, Spring v5.3.23
+14:36:56.937 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - No active profile set, falling back to 1 default profile: "default"
+14:37:56.893 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - Starting MinhaApiApplicationKt using Java 11.0.16 on jhonatan-Magna with PID 37672 (/opt/projetos/kotlin_spring/API-Kotlin-Spring-Livraria/target/classes started by jhonatan in /opt/projetos/kotlin_spring/API-Kotlin-Spring-Livraria)
+14:37:56.895 [restartedMain] DEBUG b.c.m.a.m.MinhaApiApplicationKt - Running with Spring Boot v2.7.4, Spring v5.3.23
+14:37:56.896 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - No active profile set, falling back to 1 default profile: "default"
+14:39:26.061 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - Starting MinhaApiApplicationKt using Java 11.0.16 on jhonatan-Magna with PID 38066 (/opt/projetos/kotlin_spring/API-Kotlin-Spring-Livraria/target/classes started by jhonatan in /opt/projetos/kotlin_spring/API-Kotlin-Spring-Livraria)
+14:39:26.062 [restartedMain] DEBUG b.c.m.a.m.MinhaApiApplicationKt - Running with Spring Boot v2.7.4, Spring v5.3.23
+14:39:26.062 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - No active profile set, falling back to 1 default profile: "default"
+14:39:27.933 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - Started MinhaApiApplicationKt in 2.138 seconds (JVM running for 2.684)
+14:42:18.355 [http-nio-8080-exec-3] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+14:42:19.980 [http-nio-8080-exec-4] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
+14:49:46.882 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - Starting MinhaApiApplicationKt using Java 11.0.16 on jhonatan-Magna with PID 38765 (/opt/projetos/kotlin_spring/API-Kotlin-Spring-Livraria/target/classes started by jhonatan in /opt/projetos/kotlin_spring/API-Kotlin-Spring-Livraria)
+14:49:46.884 [restartedMain] DEBUG b.c.m.a.m.MinhaApiApplicationKt - Running with Spring Boot v2.7.4, Spring v5.3.23
+14:49:46.884 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - No active profile set, falling back to 1 default profile: "default"
+14:49:48.900 [restartedMain] INFO  b.c.m.a.m.MinhaApiApplicationKt - Started MinhaApiApplicationKt in 2.264 seconds (JVM running for 2.751)
+14:49:53.755 [http-nio-8080-exec-2] INFO  b.c.m.a.m.service.CategoriaService - Buscando todas as categorias
