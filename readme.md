@@ -17,6 +17,12 @@ sudo docker build -t minha-api-kotlin .
 sudo docker run -p 8080:8080 minha-api-kotlin
 ```
 
+http://localhost:8080/swagger-ui/index.html#/categoria-controller/getAllCategorias
+
+ou
+
+http://localhost:8080/api/categorias
+
 #### OBS: 🗒
 Você deve ter instalado um banco de dados configurado para rodar a aplicação no Docker
 
